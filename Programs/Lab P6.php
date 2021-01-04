@@ -1,3 +1,8 @@
+<!-- 
+Name:Shreyaswini
+Usn:4MT17IS048
+6. Write a PHP program to keep track of the number of visitors visiting the web pageand to
+display this count of visitors, with proper headings. -->
 <strong style="color:green;background:lightpink;">
 <?php
 $handle=fopen("counter.txt","r");
