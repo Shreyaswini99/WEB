@@ -1,3 +1,10 @@
+<!-- 
+Name:Shreyaswini
+Usn:4MT17IS048
+8. Write the PHP programs to do the following:
+b) Find the transpose of a matrix.
+c) Multiplication of two matrices.
+d) Addition of two matrices. -->
 <?php
 	function display($x){
 		foreach ($x as $y) {
