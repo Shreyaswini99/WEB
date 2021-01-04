@@ -1,6 +1,6 @@
 <!-- 
-Name:M Rachana Shenoy
-Usn:4MT17IS024
+Name:Shreyaswini
+Usn:4MT17IS048
 8. Write the PHP programs to do the following:
 a) Implement simple calculator operations.
  -->
